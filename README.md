@@ -1,4 +1,4 @@
-# Project 4
+# School Database
 
 ## create a venv and activate it then install the requirements
 
